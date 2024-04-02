@@ -1,5 +1,7 @@
 {
   "projects": {
     "default": "perusahaan3h"
-  }
+  },
+  "targets": {},
+  "etags": {}
 }
